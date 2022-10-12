@@ -1,0 +1,50 @@
+body {
+    background-color: skyblue;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+li {
+    font-size: 35px;
+}
+
+span {
+    font-size: 20px;
+    padding-left: 5px;
+
+}
+.par {
+    color: darkslateblue;
+    font-size: 70px;
+    text-align: center;
+}
+
+
+#likeIcon {
+    padding-left: 5px;
+}
+
+
+#addItem {
+    height: 30px;
+    border-radius: 1%;
+    border: 0px;
+    font-size: 20px;
+    color: gray;
+}
+
+#addBtn {
+    height: 35px;
+    width: 9%;
+    font-size: 20px;
+    border-radius: 1%;
+    border: 0px;
+    color:salmon;
+}
+
+#input-area {
+    text-align: center;
+}
